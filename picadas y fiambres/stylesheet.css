@@ -95,4 +95,6 @@ li {
     border-radius: 10px;
     color: black;
     margin: 33%;
+    display: inline-block;
+    background-color: #924;
 }
