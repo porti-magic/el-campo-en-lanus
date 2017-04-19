@@ -68,14 +68,6 @@ body {
     border: 4px dotted;
 }
 
-li {
-    text-align: center;
-}
-
-.contacto {
-    display: inline-block;
-}
-
 .Comprar {
     border: 10px double black;
     border-radius: 10px;
@@ -85,15 +77,6 @@ li {
 
 .chica {
     height: 870px;
-}
-
-.precio {
-    border: 3px solid black;
-    border-radius: 50%;
-    text-align: center;
-    position: relative;
-    left: 70%;
-    width: 100px;
 }
 
 .duda {
@@ -130,11 +113,6 @@ li {
     display: inline;
     margin: 10px;
     width: 50px;
-}
-
-.aviso {
-    background-color: #924;
-    border: 10px double black;
 }
 
 .producto_no_disponible {
