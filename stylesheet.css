@@ -50,10 +50,10 @@ li {
     background-color: #924;
     display: inline-block;
     border: double 5px;
-    border-radius: 10%;
+    border-radius: 50%;
 }
 
 #foto {
     display: inline-block;
-    width: 45%;
+    width: 60%;
 }
