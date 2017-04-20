@@ -44,17 +44,16 @@ li {
 
 .contacto {
     display: inline-block;
-    /*position: relative;
-    top: 10px;
-    */
 }
 
 .productos {
     background-color: #924;
     display: inline-block;
+    border: double 5px;
+    border-radius: 10%;
 }
 
 #foto {
     display: inline-block;
-    size: 45%;
+    width: 45%;
 }
