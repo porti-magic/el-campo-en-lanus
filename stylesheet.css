@@ -51,11 +51,22 @@ li {
     display: inline-block;
     border: double 5px;
     border-radius: 50%;
+    color: #924;
+    position: relative;
+    bottom: 233px;
 }
 
 #foto {
     display: inline-block;
-    width: 900px;
-    height: 800px;
-    margin-left: 5px;
+    width: 700px;
+    height: 700px;
+    margin-left: 0px;
+}
+
+#precios {
+    border: 10px double black;
+    border-radius: 10px;
+    color: black;
+    display: inline-block;
+    background-color: #924;
 }
