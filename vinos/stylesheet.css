@@ -123,3 +123,8 @@ body {
 .contacto {
     display: inline-block;
 }
+
+telefono {
+    background-color: #924;
+    border: 4px dotted;
+}
